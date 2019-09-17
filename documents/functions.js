@@ -1,6 +1,11 @@
-// hello.mjs
-export function hello(text) {
-  const div = document.createElement('div');
-  div.textContent = `Hello ${text}`;
-  document.body.appendChild(div);
+function custom_ceteicean(path) {
+var CETEIcean = new CETEI();
+
+CETEIcean.addBehaviors({
+"tei": {
+"teiHeader" : null
+} });
+
+CETEIcean.getHTML5(path, function(data) {
+document.getElementById("TEI").appendChild(data) })
 }
