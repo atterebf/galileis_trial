@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="d53" xml:base="http://symogih.org/resource">
+    <teiHeader>          <fileDesc>             <titleStmt>                <title>L’inquisitore <persName key="Actr307">Cornelio Priatoni</persName> al cardinale <persName key="Actr255">Gian Garsia Mellini</persName> in <placeName key="NaPl3697">Roma</placeName>
+                </title>             </titleStmt>             <editionStmt>                 <edition>                     <idno type="chapitre">B</idno>                     <date type="date_ordre_tri">1615-05-11_01</date>                 </edition>             </editionStmt>             <publicationStmt>                <idno type="BHP"/>                <date type="exportation">07/05/2011 11:39:17</date>
+                <num type="ordinal" value="1"/>        </publicationStmt>             <sourceDesc>
+                <msDesc>
+                    <msIdentifier corresp="#MaOb5136">
+                        <msName/>
+                    </msIdentifier>                      <msContents>                           <summary/>                             <msItem>
+                            <locusGrp rendition="#pg_f">
+                                <locus from="28r"/>
+<locus from="29v"/>
+                            </locusGrp>
+                            <author/>
+                            <incipit/>
+                            <explicit/>
+                        </msItem>                       </msContents>                        <physDesc>                             <handDesc>
+                            <p>Firma autografa</p>
+                        </handDesc>                        </physDesc> <additional>
+                        <adminInfo/>
+                        <listBibl>
+                            <bibl corresp="#Bibl786">
+                                <biblScope type="vol">XIX</biblScope>
+                                <biblScope type="pp">p. 313</biblScope>
+                            </bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>          </fileDesc>          <profileDesc>             <creation>       <placeName key="NaPl3465"/>       <date when="1615-05-11">11 maggio 1615</date>             </creation>          </profileDesc>
+    </teiHeader>
+    <text xml:id="d53" type="TyDoc_1" xml:lang="it">
+        <body>
+            <div xml:id="d53_div1" type="core">
+                <ab rendition="#ta_ctr" xml:space="preserve">
+                    <handShift/>
+                    <choice>
+                        <expan>Illustrissimo e reverendissimo signore</expan>
+                        <abbr>Ill.mo et R.mo Sig.re</abbr>
+                    </choice>.</ab>
+                <p xml:space="preserve">Perché il <choice>
+                        <expan>padre fra</expan>
+                        <abbr>P. F.</abbr>
+					</choice>
+                    <name key="Actr384">Ferdinando Gimenes</name> dell’Ordine de’
+					Predicatori, che intorno al fine di marzo passato partì da questa città per
+					Milano, havendo lasciata voce di ritornar subbito doppo le tre feste di Pasqua,
+					hora s’intende ch’egli non sia per venire così presto a Firenze, non mi è parso
+					di cominciare l’essamine delle persone nominate nella denuntia del padre fra
+						<name key="Actr78">Thomasso Caccini</name>, del medesimo Ordine,
+					contro <name key="Actr161">Galileo Galilei</name>, come già scrissi a
+					Vostra Signoria illustrissima et reverendissima, ma di aspettare et vedere prima
+					le depositioni di detto <name key="Actr384">padre Gimenes</name> intorno
+					alle tre propositioni che si pretendono asserte dalli discepoli di detto
+						<name key="Actr161">Galileo</name>, che è il fondamento principale
+					di quanto si possa pretendere contro detto <name key="Actr161">Galileo</name> et che solo ha bisogno di prova. Però ne dò avviso a <choice>
+                        <expan>Vostra Signoria illustrissima e reverendissima</expan>
+                        <abbr>V.S. Ill.ma et R.ma</abbr>
+					</choice>, acciò possa ordinare quello che gli parerà espediente, et gli faccio
+					profondissima riverenza. <seg type="dateline">Firenze, li <choice>
+                            <orig>xi</orig>
+                            <reg>11</reg>
+					</choice> maggio 1615</seg>.</p>
+                <ab xml:id="d53_1">Di <choice>
+                        <expan>vostra signoria illustrissima e <seg>reverendissima</seg>
+                        </expan>
+                        <abbr>V.S. Ill.ma et R.ma</abbr>
+                    </choice>
+                </ab>
+                <ab xml:id="d53_2">
+                    <handShift corresp="#MaOb5136_h20"/>humilissimo servo<lb/>
+                    <name key="Actr307">Fra Cornelio, inquisitore di Fiorenza</name>.</ab>
+                <join target="#d53_1 #d53_2" type="signed" scope="root"/>
+            </div>
+            <pb n="MaOb5136_29v"/>
+            <div xml:id="d53_div2">
+                <ab>
+                    <handShift/>All’illustrissimo e reverendissimo signore padron mio
+                    colendissimo<lb/>il signor cardinale Mellino.</ab>
+                <ab>Roma.</ab>
+                <!-- !!! ??? Questione del sigillo della lettera -->
+            </div>
+        </body>
+        <back>
+            <div xml:id="d53_div3" type="address">
+                <ab>
+                    <handShift corresp="#MaOb5136_h16"/>Fiorenza</ab>
+                <ab>Del padre inquisitore</ab>
+                <ab>Delli <choice>
+                        <orig>xi</orig>
+                        <reg>11</reg>
+                    </choice> a 22 maggio 1615</ab>
+                <ab>Dice che non li è parso bene di metter mano ad essaminare li testimonii nominati
+                    nella denuntia di fra <name key="Actr78">Thomaso Caccini</name> contro
+                    il <name key="Actr161">Galileo</name> se prima non è essaminato il <choice>
+                        <expan>padre</expan>
+                        <abbr>P.</abbr>
+                    </choice> fra <name key="Actr384">Ferdinando Gimenes</name> de’
+                    Predicatori, quale è andato a Milano et si crede non sia per tornare per hora
+                    etc., onde etc.</ab>
+            </div>
+        </back>
+    </text>
+</TEI>

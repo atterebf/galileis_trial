@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DiOb7215">
+    <teiHeader>          <fileDesc>             <titleStmt>                <title>Decree of the <name ref="CoAc15">Inquisition Congregation</name>
+                </title>                  <respStmt>                     <resp>Transcribed to XML-TEI, collated on the original documents, edited and annotated by</resp>                     <name ref="http://viaf.org/viaf/14907585">Francesco Beretta</name>                 </respStmt>             </titleStmt>             <editionStmt>                 <edition>                     <idno type="chapitre">B</idno>                     <date type="date_ordre_tri">1615-03-19_01</date>                 </edition>             </editionStmt>             <publicationStmt>                  <authority>symogih.org</authority>                     <idno type="bhp_reproduced_object"/>                     <availability status="restricted">                         <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Licence Attribution-NonCommercial-ShareAlike 4.0 International.                         </licence>                     </availability>                   <idno type="BHP"/>                <date type="exportation">11/05/2012 11:32:42</date>
+                <num type="ordinal" value="1"/>        </publicationStmt>             <sourceDesc>
+                <msDesc>
+                    <msIdentifier corresp="#MaOb7348">
+                        <msName/>
+                    </msIdentifier>                      <msContents>                           <summary/>                             <msItem>
+                            <locusGrp rendition="#pg_p">
+                                <locus from="135"/>
+<locus from="137"/>
+                            </locusGrp>
+                            <author/>
+                            <incipit/>
+                            <explicit/>
+                        </msItem>                       </msContents>                        <physDesc>                             <handDesc>
+                            <p>Mano del notaio Pettini</p>
+                        </handDesc>                        </physDesc> <additional>
+                        <adminInfo/>
+                        <listBibl>
+                            <bibl corresp="#Bibl786">
+                                <biblScope type="vol">XIX</biblScope>
+                                <biblScope type="pp">p. 276</biblScope>
+                            </bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>          </fileDesc>          <profileDesc>             <creation>       <placeName key="NaPl3697"/>       <date when="1615-03-19">19 marzo 1615</date>             </creation>          </profileDesc>
+    </teiHeader>
+    <text type="TyDoc_7" xml:lang="la">
+        <body>
+            <div type="protocol">
+                <dateline rendition="#ta_ctr">
+                    <handShift corresp="#MaOb7348_h1"/>Feria quinta die <choice>
+                        <sic>xix.</sic>
+                        <reg>19</reg>
+                    </choice> martii 1615.</dateline>
+                <p>Fuit Congregatio sanctae Inquisitionis<del>coram</del> in palatio apostolico apud
+                    Sanctum Petrum coram sanctissimo domino nostro domino <name key="Actr288">Paulo divina Providentia papa <choice>
+                            <orig>Vo.</orig>
+                            <reg>V</reg>
+                        </choice>
+                    </name>, ac illustrissimis et reverendissimis dominis <list type="participants">
+                        <item rendition="#lb_bef">
+                            <name key="Actr341">Paulo<del>divina
+                                    Providentia papa V</del> Sfondrato</name> episcopo
+                            Albanensi, Sanctae Ceciliae, </item>
+                        <item rendition="#lb_bef">
+                            <name key="Actr40">Roberto tituli Sanctae
+                                Mariae in Via Bellarmino</name>, </item>
+                        <item rendition="#lb_bef">
+                            <name key="Actr42771">Antonio tituli Sanctae
+                                Crucis in Hierusalem Zapata</name>, </item>
+                        <item rendition="#lb_bef">
+                            <name key="Actr42772">Ferdinando Taberna
+                                tituli Sancti Eusebii</name>, </item>
+                        <item rendition="#lb_bef">
+                            <name key="Actr255">Ioanne Garsia tituli
+                                Sanctorum Quattuor Coronatorum Millino</name>, </item>
+                        <item rendition="#lb_bef">
+                            <name key="Actr373">Fabritio tituli Sancti
+                                Augustini Verallo</name> et </item>
+                        <item rendition="#lb_bef">
+                            <name key="Actr162">fratre Augustino tituli
+                                Sanctae Mariae Araecaeli</name>
+                        </item>
+                    </list>, nuncupatis praesbiteris miseratione divina Sanctae Romanae Ecclesiae
+                    cardinalibus, adversus haereticam pravitatem Inquisitoribus generalibus a Sancta
+                    Sede apostolica specialiter deputatis<note type="apparatus">
+                        <seg xml:lang="it">Il notaio ha omesso il seguito della formula
+                            abituale.</seg>
+                        <seg xml:lang="fr">Pettini a omis la suite de la formule
+                        habituelle.</seg>
+                    </note>.</p>
+            </div>
+            <gap reason="sampling ante_ingressum"/>
+            <div type="core">
+                <p>
+                    <pb n="MaOb7348_137"/> Contra <sic>
+                        <name key="Actr161">Gallileum de
+                            Gallileis</name>
+                    </sic>, professorem mathematicae morantem
+                    Florentiae, <rs type="acteur" key="Actr288">Sanctissimus</rs> ordinavit
+                    examinari fratrem <name key="Actr78">Thomam Caccinum</name> quem
+                    illustrissimus dominus <rs type="acteur" key="Actr162">cardinalis Araecaeli</rs>
+                    dixit esse informatum de erroribus dicti <sic>
+                        <name key="Actr161">Gallilei</name>
+                    </sic> et cupere illos pro exoneratione conscientiae
+                    deponere.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

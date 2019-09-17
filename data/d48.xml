@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="d48" xml:base="http://symogih.org/resource">
+    <teiHeader>          <fileDesc>             <titleStmt>                <title>Il cardinale <persName key="Actr255">Millini</persName> all’inquisitore di Firenze <persName key="Actr307">Priatoni</persName>
+                </title>             </titleStmt>             <editionStmt>                 <edition>                     <idno type="chapitre">B</idno>                     <date type="date_ordre_tri">1615-04-04</date>                 </edition>             </editionStmt>             <publicationStmt>                <idno type="BHP"/>                <date type="exportation">02/03/2012 19:00</date>        </publicationStmt>             <sourceDesc>
+                <msDesc>
+                    <msIdentifier corresp="#MaOb7346">
+                        <msName/>
+                    </msIdentifier>                      <msContents>                           <summary/>                             <msItem>
+                            <locusGrp rendition="#pg_f">
+                                <locus from="9r"/>
+<locus from="14v"/>
+                            </locusGrp>
+                            <author/>
+                            <incipit/>
+                            <explicit/>
+                        </msItem>                       </msContents>                        <physDesc>                             <handDesc>
+                            <p>Firma autografa</p>
+                        </handDesc>                        </physDesc> <additional>
+                        <adminInfo/>
+                        <listBibl>
+                            <bibl corresp="#Bibl124">
+                                <biblScope type="vol"/>
+                                <biblScope type="pp">p. 5</biblScope>
+                            </bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>          </fileDesc>          <profileDesc>             <creation>       <placeName key="NaPl3697"/>       <date when="1615-04-04">4 aprile 1615</date>             </creation>          </profileDesc>
+    </teiHeader>
+    <text xml:id="d48" type="TyDoc_1" xml:lang="it">
+        <body>
+            <div type="core" xml:id="d48_div1">
+                <p xml:space="preserve">
+                    <handShift corresp="#MaOb7346_h1"/>Reverendo padre<note type="apparatus" rend="omit">
+                        <seg xml:lang="fr">L'adresse est écrite sur la première ligne du texte. Impossible donc d'utiliser 'opener,salute'</seg>
+                    </note>. Mando a Vostra Reverenza
+                    <ref target="#d44">copia d’una depositione</ref> fatta in questo Santo Offitio
+                    da fra <name key="Actr78">Thomaso Caccini</name> dell’Ordine <choice>
+                        <abbr>de’</abbr>
+                        <expan>dei</expan>
+                    </choice> Predicatori, nella quale considerarà quanto viene deposto contro
+                        <name key="Actr161">Galileo Galilei</name>. Et d’ordine della
+                    santità di Nostro Signore le dico che ella essamini le persone nominate in essa,
+                    facendole specificare bene le circostanze necessarie per venire in chiaro della
+                    verità. Et a suo tempo mandi copia delle depositioni de’ testimonii. Et si
+                    conservi sana. </p>
+                <p>Di Roma, li 4 di aprile 1615.</p>
+                <ab>Di Vostra Reverenza</ab>
+                <signed>
+                    <handShift corresp="#MaOb7346_h6"/>come fratello</signed>
+                <signed>il cardinale <name key="Actr255">Millino</name>.</signed>
+            </div>
+            <pb n="MaOb7346_14v"/>
+            <div xml:id="d48_div2" type="address">
+                <!-- 14.9.2011 : je ne comprends pas pourquoi ce handShift ne sort pas-->
+                <ab rendition="#po_sq">
+                    <handShift corresp="#MaOb7346_h1"/>Al reverendo padre il
+                    padre inquisitore di Fiorenza</ab>
+            </div>
+        </body>
+        <back>
+            <pb n="MaOb7346_9r"/>
+            <div type="annotation" xml:id="d48_div4">
+                <ab rendition="#ta_lef #po_bo">Inquisitore di Fiorenza</ab>
+            </div>
+            <pb n="MaOb7346_14v"/>
+            <div xml:id="d48_div3" type="summary">
+                <ab rendition="#po_fq">
+                    <handShift/>
+                    <choice>
+                        <abbr>Inform</abbr>
+                        <expan>Informatione</expan>
+                    </choice> presa ad istanza e d’ordine della sacra Congregatione di Roma</ab>
+                <ab rendition="#po_fq">Contro il Signor <name key="Actr161">Galileo
+                        Galilei</name>
+                </ab>
+            </div>
+        </back>
+    </text>
+</TEI>

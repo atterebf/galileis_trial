@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="d50" xml:base="http://symogih.org/resource">
+    <teiHeader>          <fileDesc>             <titleStmt>                <title>Intestazione dell’incartamento processuale</title>             </titleStmt>             <editionStmt>                 <edition>                     <idno type="chapitre">B</idno>                     <date type="date_ordre_tri">1615-03-21_02</date>                 </edition>             </editionStmt>             <publicationStmt>                <idno type="BHP"/>                <date type="exportation">03/05/2011 10:12:14</date>
+                <num type="ordinal" value="2"/>        </publicationStmt>             <sourceDesc>
+                <msDesc>
+                    <msIdentifier corresp="#MaOb5136">
+                        <msName/>
+                    </msIdentifier>                      <msContents>                           <summary>
+                            <seg type="remarques">La parte inferiore della pagina è recisa. Manca quindi il nome del notaio che, secondo lo stile, è normalmente iscritto sulla parte inferiore della copertina dei processi</seg>
+                            <ref type="renvoiDocument"> Cfr. doc. <ptr type="document_EPG" target="#d19"/>.</ref>
+                        </summary>                             <msItem>
+                            <locusGrp rendition="#pg_f">
+                                <locus from="1r"/>
+                            </locusGrp>
+                            <author/>
+                            <incipit/>
+                            <explicit/>
+                        </msItem>                       </msContents>                        <physDesc>                             <handDesc>
+                            <p/>
+                        </handDesc>                        </physDesc> <additional>
+                        <adminInfo/>
+                        <listBibl>
+                            <bibl corresp="#Bibl786">
+                                <biblScope type="vol">XIX</biblScope>
+                                <biblScope type="pp">p. 293</biblScope>
+                            </bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>          </fileDesc>          <profileDesc>             <creation>       <placeName key="NaPl3697"/>       <date when="1615-03-21" type="reconstituée" cert="high">21 marzo 1615</date>             </creation>          </profileDesc>
+    </teiHeader>
+    <text xml:id="d50" type="TyDoc_15" xml:lang="la">
+        <body>
+            <div xml:id="d50_div1" type="core" part="I">
+                <ab rendition="#po_to #ta_lef">
+                    <expan>Florentinus</expan>
+                </ab>
+            </div>
+            <div xml:id="d50_div2" type="core" part="F">
+                <ab rendition="#ta_ctr">
+                    <choice>
+                        <abbr>Con-</abbr>
+                        <expan>Contra</expan>
+                    </choice>
+                    <lb/>
+                    <name key="Actr161">Galileum Galilei</name>
+                    mathematicum</ab>
+            </div>
+        </body>
+    </text>
+</TEI>

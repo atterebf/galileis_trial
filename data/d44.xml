@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="d44" xml:base="http://symogih.org/resource">
+    <teiHeader>          <fileDesc>             <titleStmt>                <title>
+                    <persName key="Actr78">Tommaso Caccini</persName>, Denuncia di <persName key="Actr161">Galileo</persName>
+                </title>             </titleStmt>             <editionStmt>                 <edition>                     <idno type="chapitre">B</idno>                     <date type="date_ordre_tri">1615-03-20</date>                 </edition>             </editionStmt>             <publicationStmt>                <idno type="BHP"/>                <date type="exportation">06/05/2011 17:12:14</date>        </publicationStmt>             <sourceDesc>
+                <msDesc>
+                    <msIdentifier corresp="#MaOb5136">
+                        <msName/>
+                    </msIdentifier>                      <msContents>                           <summary/>                             <msItem>
+                            <locusGrp rendition="#pg_f">
+                                <locus from="18r" to="23v"/>
+                            </locusGrp>
+                            <author/>
+                            <incipit/>
+                            <explicit/>
+                        </msItem>                       </msContents>                        <physDesc>                             <handDesc>
+                            <p>Mano del notaio sostituto de Sanctis</p>
+                        </handDesc>                        </physDesc> <additional>
+                        <adminInfo/>
+                        <listBibl>
+                            <bibl corresp="#Bibl786">
+                                <biblScope type="vol">XIX</biblScope>
+                                <biblScope type="pp">pp. 307-311</biblScope>
+                            </bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+                <listWit>
+                    <witness xml:id="d44_B">
+                        <msDesc>
+                            <msIdentifier corresp="#MaOb7346">
+                                <msName>Copia della denuncia di Galileo</msName>
+                            </msIdentifier>
+                            <msContents>
+                                <summary/>
+                                <msItem>
+                                    <locusGrp rendition="#pg_f">
+                                        <locus from="10r" to="13v"/>
+                                    </locusGrp>
+                                    <p/>
+                                </msItem>   </msContents>   <physDesc>
+                                <handDesc>
+                                    <p>Mano del notaio sostituto <persName key="Actr43082">Marioni</persName>
+                                    </p>
+                                </handDesc>
+                            </physDesc>
+                            <additional>
+                                <adminInfo/>
+                                <listBibl>
+                                    <bibl corresp="#Bibl124">
+                                        <biblScope type="vol"/>
+                                        <biblScope type="pp">pp. 5-11</biblScope>
+                                    </bibl>
+                                </listBibl>
+                            </additional>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>          </fileDesc>          <profileDesc>             <creation>       <placeName key="NaPl3697"/>       <date when="1615-03-20">20 marzo 1615</date>             </creation>          </profileDesc>
+        <encodingDesc>
+            <variantEncoding method="parallel-segmentation" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text xml:id="d44" type="TyDoc_11" xml:lang="la">
+        <body>
+            <div xml:id="d44_div1">
+                <div xml:id="d44_B_div1" type="wit_div">
+                    <div type="protocol">
+                        <dateline rendition="#ta_ctr">
+                            <app>
+                                <lem>
+                                    <handShift corresp="#MaOb5136_h17"/>
+                                </lem>
+                                <rdg wit="#d44_B" type="structure">
+                                    <handShift corresp="#MaOb7346_h8"/>
+                                </rdg>
+                            </app>Die veneris 20 martii 1615.</dateline>
+                        <p>Comparuit personaliter sponte Romae in palatio Sancti Officii in aula
+                            magna examinum, coram admodum reverendo patre fratre <name ref="Actr338">Michaele Angelo Seghizzio</name> de Lauda Ordinis Praedicatorum,
+                            sacrae theologiae magistro et commissario generali sanctae romanae et
+                            universalis Inquisitionis, in meique etc., reverendus pater frater <name ref="Actr78">Thomas filius quondam Ioannis<del>Pacini</del> de
+                                Caccinis</name> florentinus, sacerdos professus Ordinis
+                            Praedicatorum, magister et bacchalaureus in conventu Beatae Mariae supra
+                            Minervam almae Urbis, aetatis suae annorum 39 circiter, cui delato
+                            iuramento veritatis dicendae, <app>
+                                <lem>quod</lem>
+                                <rdg wit="#d44_B" type="simple_omission"/>
+                            </app> tactis etc. praestitit, deposuit <app>
+                                <lem>ut infra, videlicet</lem>
+                                <rdg wit="#d44_B" type="orthographic">
+                                    <sic>uninfra</sic> etc</rdg>
+                            </app>:</p>
+                    </div>
+                    <div type="core">
+                        <said xml:lang="it">
+                            <p>Parlai con l’illustrissimo signor <rs type="acteur" ref="Actr162">cardinal Araeceli</rs> d’alcune cose occorse in Fiorenza et
+                                egli hieri mi mandò a chiamare, et mi disse che <app>
+                                    <lem>dovesse</lem>
+                                    <rdg wit="#d44_B" type="orthographic">dovessi</rdg>
+                                </app> venire qua da <choice>
+                                    <abbr>V. R.</abbr>
+                                    <expan>Vostra Rerevenza</expan>
+                                </choice> a dirli tutto. Et perché lei mi ha detto che bisogna
+                                deponerle giuditialmente, son qua a quest’effetto. </p>
+                            <p>Dico dunque che leggendo io nella <choice>
+                                    <abbr>4ta</abbr>
+                                    <expan>quarta</expan>
+                                </choice> domenica dell’Advento di quest’anno passato nella chiesa
+                                di Santa Maria Novella di Firenze, dove dall’obbedienza ero stato in <app>
+                                    <lem>quest’anno</lem>
+                                    <rdg wit="#d44_B" type="orthographic"/>
+                                </app> destinato lettore di sacra Scrittura, seguii l’incominciata <app>
+                                    <lem>da me</lem>
+                                    <rdg type="simple_omission"/>
+                                </app>
+                                <pb xml:id="MaOb5136_18v"/> istoria di <name ref="Actr42769">Iosuè</name>. Et <app>
+                                    <lem>appunto</lem>
+                                    <rdg wit="#d44_B" type="orthographic">apunto</rdg>
+                                </app> nella stessa domenica mi toccò a leggere quel passo del <choice>
+                                    <abbr>Xo</abbr>
+                                    <expan>decimo</expan>
+                                </choice> capitolo di quel libro, dove il sacro scrittore <app>
+                                    <lem>riferisce</lem>
+                                    <rdg wit="#d44_B" type="orthographic">referisce</rdg>
+                                </app> il gran miracolo <app>
+                                    <lem>ch’alle</lem>
+                                    <rdg wit="#d44_B" type="orthographic">che alle</rdg>
+                                </app> preghiere di <name ref="Actr42769">Iosuè</name> fece Iddio in
+                                fermando il sole, cioè <quote xml:lang="la">Sol ne movearis contra
+                                    Ghabaon</quote>
+                                <note type="semantic">
+                                    <seg xml:lang="it">Giosué 10,12</seg>
+                                </note>
+                                etc. Presi per tanto occasione da questo luogo, <app>
+                                    <lem>da me prima</lem>
+                                    <rdg wit="#d44_B" type="simple_inversion">prima da me</rdg>
+                                </app> in senso litterale et poi in sentimento spirituale per salute <app>
+                                    <lem>delle anime interpetrato</lem>
+                                    <rdg wit="#d44_B" type="orthographic">dell'anime
+                                        interpretato</rdg>
+                                </app>, di <app>
+                                    <lem>riprovare</lem>
+                                    <rdg wit="#d44_B" type="orthographic">reprovare</rdg>
+                                </app> con quella modestia che conviene all’offitio che tenevo una
+                                certa opinione già di <name ref="Actr386">Nicolò Copernico</name> et
+                                in questi tempi, per<del>che</del> quel ch’è publichissima fama
+                                nella città di Firenze, tenuta et insegnata <app>
+                                    <lem/>
+                                    <rdg wit="#d44_B" type="ponctuation">(</rdg>
+                                </app>per quanto<app>
+                                    <lem/>
+                                    <rdg wit="#d44_B" type="ponctuation">)</rdg>
+                                </app> dicono dal signor <name ref="Actr161">Galileo Galilei</name>
+                                matematico, cioè che il <app>
+                                    <lem/>
+                                    <rdg wit="#d44_B" type="structure">
+                                        <pb xml:id="MaOb7346_10v"/>
+                                    </rdg>
+                                </app>sole essendo secondo lui centro del mondo per conseguenza è
+                                immobile di moto locale progressivo cioè da un termine all’altro. Et
+                                dissi come somigliante opinione da gravissimi scrittori era tenuta
+                                dalla fede cattolica dissonante perché contradiceva a molti luoghi
+                                della divina Scrittura li quali, in senso litterale da’ santi Padri
+                                concordevolmente <app>
+                                    <lem>datogli</lem>
+                                    <rdg wit="#d44_B" type="orthographic">datoli</rdg>
+                                </app>, suonano<fw type="catch">et</fw>
+                                <pb xml:id="MaOb5136_19r"/>
+                                <fw type="pageNum">
+                                    <subst>
+                                        <del>963</del>
+                                        <add>343</add>
+                                    </subst>
+                                </fw>
+                                <fw type="pageNum" rendition="#po_bo #ta_rig">
+                                    <choice>
+                                        <orig>i2</orig>
+                                        <reg>12</reg>
+                                    </choice>
+                                </fw>et significano il contrario, come il luogo del Salmo <choice>
+                                    <orig>18.mo</orig>
+                                    <reg>18</reg>
+                                </choice>
+                                <note type="semantic">
+                                    <seg xml:lang="it">Salmo 19 (Volgata
+                                        18), 6-7</seg>
+                                </note>, dell’Ecclesiastes primo capitolo<note type="semantic">
+                                    <seg xml:lang="it">Qoèlet (Ecclesiaste) 1,
+                                        5</seg>
+                                </note>, di Esaia <choice>
+                                    <orig>38.o</orig>
+                                    <reg>38</reg>
+                                </choice>
+                                <note type="semantic">
+                                    <seg xml:lang="it">Isaia 38,
+                                    8</seg>
+                                </note>, oltra al luogo di Iosuè citato. Et perché
+                                restassero più gl’audienti capaci che tal mio insegnamento non
+                                procedeva da mio capriccio, lessi loro la dottrina di <app>
+                                    <lem>Nicolò</lem>
+                                    <rdg wit="#d44_B" type="orthographic">Nicolao</rdg>
+                                </app>
+                                <name ref="Actr43712">Serrario</name>, questione <choice>
+                                    <orig>14a</orig>
+                                    <reg>14</reg>
+                                </choice> sopra il <choice>
+                                    <abbr>Xo</abbr>
+                                    <expan>decimo</expan>
+                                </choice> capitolo di Iosuè<app>
+                                    <lem/>
+                                    <rdg type="copy_error_corrected">
+                                        <del>citato; et perché restassero</del>
+                                    </rdg>
+                                </app> il <hi rendition="#td_ul">quale, dopo l’haver detto che tal <app>
+                                        <lem>positione</lem>
+                                        <rdg wit="#d44_B" type="substantive">propositione</rdg>
+                                    </app>
+                                </hi> di <name ref="Actr386">Copernico</name> è contraria alla
+                                comune sentenza di tutti quasi i filosofi, di tutti <app>
+                                    <lem>i</lem>
+                                    <rdg wit="#d44_B" type="orthographic">li</rdg>
+                                </app> theologi scolastici <app>
+                                    <lem>et</lem>
+                                    <rdg type="orthographic" wit="#d44_B">e</rdg>
+                                </app> di tutti li santi Padri, soggiongeva che non sapeva vedere
+                                come tal dottrina non <app>
+                                    <lem>fussi</lem>
+                                    <rdg type="orthographic" wit="#d44_B">fossi</rdg>
+                                </app> quasi che heretica per i luoghi sopra accennati della
+                                    Scrittura<note type="semantic" rend="omit">
+                                    <seg xml:lang="it">Rinvio, cf. Pagano 2009, p.24, note 86 – je n'ai pas trouvé
+                                        dans ma thèse, vérifier en ligne (archive.org) ou
+                                    BCU</seg>
+                                </note>. Dopo il qual discorso <app>
+                                    <lem>avvertii</lem>
+                                    <rdg type="orthographic" wit="#d44_B">avertii</rdg>
+                                </app> che non era lecito a nessuno l’interpetrare le divine
+                                Scritture contro quel senso nel quale tutti <app>
+                                    <lem>i</lem>
+                                    <rdg type="orthographic" wit="#d44_B">li</rdg>
+                                </app> santi Padri concorrono perché ciò era vietato et dal Concilio
+                                lateranense sotto Leone X<note type="semantic">
+                                    <choice>
+                                        <seg xml:lang="it">Concilio lateranense V, sessione XI (19
+                                            dicembre 1516), Decreto sulla predicazione, <ptr type="biblStruct" target="#Bibl6275"/>, pp. 634-638:
+                                            636</seg>
+                                    </choice>
+                                </note> et dal Concilio tridentino<note type="semantic">
+                                    <choice>
+                                        <seg xml:lang="it">Concilio di Trento, sessione IV (8 aprile
+                                            1564), Decreto sulla Volgata e sul modo di interpretare
+                                            la sacra Scrittura, <ptr type="biblStruct" target="#Bibl6275"/>, pp. 664-665</seg>
+                                    </choice>
+                                </note>.</p>
+                            <p>Questa mia caritativa ammonitione, quantunque a molti gentilhuomini <app>
+                                    <lem>litterati</lem>
+                                    <rdg type="orthographic" wit="#d44_B">letterati</rdg>
+                                </app> et devoti <pb xml:id="MaOb5136_19v"/> grandemente <app>
+                                    <lem>piacessi, oltra modo</lem>
+                                    <rdg type="orthographic" wit="#d44_B">piacesse oltremodo</rdg>
+                                </app> dispiacque a certi<surplus reason="repeated">a
+                                    certi</surplus> discepoli del predetto <name ref="Actr161">Galilei</name>, sì che andorno alcuni di loro a ritrovare il
+                                padre predicatore del Duomo acciò in questa materia predicasse
+                                contro la data da me dottrina. Sì che havendo io sentito <app>
+                                    <lem/>
+                                    <rdg wit="#d44_B" type="structure">
+                                        <fw type="catch">tanti</fw>
+                                        <pb xml:id="MaOb7346_11r"/>
+                                    </rdg>
+                                </app>tanti rumori, per zelo della verità detti conto al molto
+                                reverendo padre <rs type="acteur" ref="Actr307">inquisitore di
+                                    Firenze</rs> di quanto <app>
+                                    <lem>m’era</lem>
+                                    <rdg type="orthographic">mi era</rdg>
+                                </app> parso, per termine di <app>
+                                    <lem>conscientia</lem>
+                                    <rdg type="orthographic" wit="#d44_B">conscienza</rdg>
+                                </app>, di trattare sopra il predetto luogo di Iosuè, avvisandolo
+                                ch’era bene il por freno a certi petulanti ingegni, discepoli del
+                                sudetto <name ref="Actr161">Galilei</name>, de’ quali <app>
+                                    <lem>m’era</lem>
+                                    <rdg type="orthographic" wit="#d44_B">mi era</rdg>
+                                </app> stato detto dal reverendo padre fra <name ref="Actr384">Ferdinando Cimenes</name>, regente di Santa Maria Novella, che
+                                da alcuni di loro haveva sentite queste <hi rendition="#td_ul">tre
+                                    propositioni</hi>
+                                <add type="note_marginale">propositiones</add>, cioè <hi rendition="#td_ul">Iddio non è altrimente sustanza, ma
+                                    accidente; Iddio è sensitivo perché in lui sono
+                                        sensi<del>di</del> divinali; veramente che i miracoli che si
+                                    dicono esser fatti da’ santi, non sono veri miracoli</hi>.</p>
+                            <p>
+                                <app>
+                                    <lem>Dopo</lem>
+                                    <rdg type="orthographic" wit="#d44_B">Doppo</rdg>
+                                </app> questi successi dal padre maestro fra <name ref="Actr207">Nicolò Lorini</name> mi fu mostrata una copia <app>
+                                    <lem>d’una</lem>
+                                    <rdg type="orthographic" wit="#d44_B">di una</rdg>
+                                </app> lettera scritta dal <pb xml:id="MaOb5136_20r"/>
+                                <fw type="pageNum">
+                                    <subst>
+                                        <del>964</del>
+                                        <add>345</add>
+                                    </subst>
+                                </fw>
+                                <fw type="pageNum" rendition="#po_bo #ta_rig">
+                                    <choice>
+                                        <orig>i3</orig>
+                                        <reg>13</reg>
+                                    </choice>
+                                </fw>predetto signor <name ref="Actr161">Galileo Galilei</name> al
+                                padre don <name ref="Actr97">Benedetto Castello</name>, monaco
+                                benedettino et publico <app>
+                                    <lem>mattematico</lem>
+                                    <rdg type="orthographic" wit="#d44_B">mathematico</rdg>
+                                </app> di Pisa, nella quale <app>
+                                    <lem>m’è</lem>
+                                    <rdg type="orthographic" wit="#d44_B">mi è</rdg>
+                                </app> parso contenersi non buona dottrina in materia di theologia.
+                                Et perché la copia di quella è stata mandata al signor <rs type="acteur" ref="Actr341">cardinale<app>
+                                        <lem/>
+                                        <rdg type="substantive" wit="#d44_B"> di</rdg>
+                                    </app> Santa Cecilia</rs>, però non ho che <app>
+                                    <lem>aggiungerci</lem>
+                                    <rdg type="orthographic" wit="#d44_B">aggiongerci</rdg>
+                                </app> altro. <hi rendition="#td_ul">Dunque depongo</hi>
+                                <note type="apparatus">
+                                    <seg xml:lang="it">Un tratto nel margine mette in rilievo le due
+                                        proposizioni attribuite a Galileo</seg>
+                                    <seg xml:lang="fr">Un trait dans la marge souligne les mots qui
+                                        suivent jusqu’à <emph>Il sole é imobile.</emph>
+                                    </seg>
+                                </note> a questo Santo Officio come publica fama è che il predetto
+                                    <name ref="Actr161">Galilei</name> tenga queste due
+                                propositioni: la terra secondo sé tutta si muove, <foreign xml:lang="la">etiam </foreign>di moto diurno; il sole è <app>
+                                    <lem>imobile</lem>
+                                    <rdg type="orthographic" wit="#d44_B">immobile</rdg>
+                                </app>. Propositioni che, secondo la mia conscientia et
+                                intelligenza, repugnano alle divine Scritture, esposte da’ santi
+                                Padri, et conseguentemente repugnano alla fede che c’insegna dover
+                                credere per vero ciò che nella Scrittura si contiene. Et per adesso
+                                non mi <app>
+                                    <lem/>
+                                    <rdg wit="#d44_B" type="structure">
+                                        <pb xml:id="MaOb7346_11v"/>
+                                    </rdg>
+                                </app>occorre di <app>
+                                    <lem>dire</lem>
+                                    <rdg type="orthographic" wit="#d44_B">dir</rdg>
+                                </app> altro</p>
+                        </said>
+                        <p>Interrogatus quomodo sciat quod Galileus doceat et teneat, solem <pb xml:id="MaOb5136_20v"/> esse immobilem terramque moveri, et an ab
+                            aliquo nominatim hoc intellexerit, respondit: <said>
+                                <app>
+                                    <lem>Oltra</lem>
+                                    <rdg type="orthographic" wit="#d44_B">Oltre</rdg>
+                                </app> la publica fama, come ho detto, <hi rendition="#td_ul">ho
+                                    anco inteso da monsignor <name ref="Actr43713">Filippo de’
+                                        Bardi</name>, vescovo di Cortona</hi>
+                                <add type="note_marginale">
+                                    <choice>
+                                        <abbr>de aud. al.</abbr>
+                                        <expan>de audito alieno</expan>
+                                    </choice>
+                                </add>
+                                <note type="apparatus" subtype="compl_preceding_tag" rend="omit">Formula classica, cfr. <ptr type="biblStruct" target="#Bibl3500"/>, p. 317 / Gebler donne comme solution
+                                    de audiendo alias, Favaro nulla, Pagano 2009, p. 26, de auditu
+                                    alicui</note>, nel tempo che stetti là, et poi in Firenze, che
+                                il Galilei tiene le predette propositioni per vere, <app>
+                                    <lem>aggiungendomi</lem>
+                                    <rdg type="orthographic" wit="#d44_B">aggiongendomi</rdg>
+                                </app> che ciò li pareva molto strano per non consonare alle
+                                Scritture. <hi rendition="#td_ul">L’ho di più inteso da un certo
+                                    gentil’huomo fiorentino <app>
+                                        <lem>
+                                            <rs type="acteur" ref="Actr42019">degl’Attavanti</rs>
+                                        </lem>
+                                        <rdg type="orthographic" wit="#d44_B">degli Attavanti</rdg>
+                                    </app>, <app>
+                                        <lem>settatore</lem>
+                                        <rdg type="orthographic" wit="#d44_B">settator</rdg>
+                                    </app> del medesimo <name ref="Actr161">Galilei</name>
+                                </hi>
+                                <add type="note_marginale">
+                                    <choice>
+                                        <abbr>de aud. al.</abbr>
+                                        <expan>de audito alieno</expan>
+                                    </choice>
+                                </add>, dicendomi che il predetto Galilei interpretava le Scritture
+                                in modo che non <app>
+                                    <lem>ripugnassero</lem>
+                                    <rdg type="orthographic" wit="#d44_B">repugnassero</rdg>
+                                </app> alla sua opinione. <app>
+                                    <lem>Et</lem>
+                                    <rdg type="orthographic" wit="#d44_B">E</rdg>
+                                </app> di questo gentil’homo non mi <app>
+                                    <lem>raccordo</lem>
+                                    <rdg type="orthographic" wit="#d44_B">ricordo</rdg>
+                                </app> il nome, né so dove <app>
+                                    <lem>sia</lem>
+                                    <rdg type="substantive" wit="#d44_B">si sia</rdg>
+                                </app> la casa sua in <app>
+                                    <lem>Fiorenza</lem>
+                                    <rdg type="orthographic" wit="#d44_B">Firenze</rdg>
+                                </app>. So bene che <app>
+                                    <lem>prattica</lem>
+                                    <rdg type="orthographic" wit="#d44_B">pratica</rdg>
+                                </app> spesso in Santa Maria Novella di Firenze, ma va in habito di
+                                prete, et può essere di età di 28 in 30 anni, di carnagione
+                                olivastra, barba castagna, <app>
+                                    <lem/>
+                                    <rdg type="substantive" wit="#d44_B">et</rdg>
+                                </app> di mediocre statura <app>
+                                    <lem>et</lem>
+                                    <rdg type="substantive" wit="#d44_B">e</rdg>
+                                </app> di faccia profilata. Et questo me lo disse <app>
+                                    <lem>quest’estate</lem>
+                                    <rdg type="orthographic" wit="#d44_B">questa estate</rdg>
+                                </app>
+                                <fw type="catch">passata</fw>
+                                <pb xml:id="MaOb5136_21r"/>
+                                <fw type="pageNum">
+                                    <subst>
+                                        <del>965</del>
+                                        <add>346</add>
+                                    </subst>
+                                </fw>
+                                <fw type="pageNum" rendition="#po_bo #ta_rig">
+                                    <choice>
+                                        <orig>i4</orig>
+                                        <reg>14</reg>
+                                    </choice>
+                                </fw>passata, circa il mese d’agosto, nel convento di Santa Maria
+                                Novella in camera del padre fra <name ref="Actr384">Ferdinando
+                                    Cimenes</name>, con l’occasione <app>
+                                    <lem>ch’il</lem>
+                                    <rdg type="orthographic" wit="#d44_B">che il</rdg>
+                                </app> detto padre Cimenes disse come io non sarei stato molto a
+                                leggere il miracolo del firmamento del sole alla presenza di esso
+                                Cimenes. Ho anco<note type="apparatus">
+                                    <seg xml:lang="it">Un tratto nel margine sottolinea il testo
+                                        fino alla fine del paragrafo</seg>
+                                    <seg xml:lang="fr">Un trait dans la marge souligne cette
+                                        phrase</seg>
+                                </note> letta questa dottrina in un <ref type="biblStruct" target="#Bibl6082">libro stampato in Roma che tratta delle
+                                    macchie solari, uscito sotto nome del detto <name ref="Actr161">Galileo</name>
+                                </ref>, che me lo prestò il detto <name ref="Actr384">Padre
+                                    Cimenes</name>
+                            </said>.</p>
+                        <p>
+                            <app>
+                                <lem/>
+                                <rdg wit="#d44_B" type="structure">
+                                    <pb xml:id="MaOb7346_12r"/>
+                                </rdg>
+                            </app> Interrogatus quis sit ille concionator <sic>domicilii</sic>
+                            <note type="apparatus" rend="omit">Domus, us </note> ad quem <app>
+                                <lem>confugierunt</lem>
+                                <rdg type="orthographic" wit="#d44_B">confugerunt</rdg>
+                            </app> discipuli Galilei, ut publice sermonem haberet contra doctrinam
+                            pariter publice ab eodem deponente edoctam, et <choice>
+                                <sic>qui nan</sic>
+                                <corr>quinam</corr>
+                            </choice> sint illi discipuli qui talem petitionem fecerunt dicto
+                            concionatori, respondit: <said>Il predicatore del Domo di Firenze al
+                                quale fecero ricorso i discepoli del <name ref="Actr161">Galileo</name>, perché predicasse contro la dottrina da me
+                                insegnata, è un padre giesuita napolitano, di cui non so <pb xml:id="MaOb5136_21v"/> il nome. Né io da detto predicatore ho
+                                saputo queste cose, perché manco ho parlato con lui, ma questo me
+                                l’ha detto il padre <name ref="Actr43714">Emanuele Cimenes</name>
+                                giesuita, col quale detto predicatore si era consigliato et lui lo
+                                dissuase, né manco so chi siano stati quei discepoli del <name ref="Actr161">Galilei</name> che cercorno dal predicatore le
+                                sopradette cose</said>.</p>
+                        <p>Interrogatus an ipse loquutus sit unquam cum dicto Galileo, respondit: <said>
+                                <hi rendition="#td_ul">Non lo conosco manco di viso</hi>
+                            </said>
+                            <add type="note_marginale">Neque de visu cognoscit Galileum</add>.</p>
+                        <p>Interrogatus cuius sit opinionis dictus <name ref="Actr161">Galileus</name> in rebus ad fidem spectantibus in civitate
+                            Florentiae, respondit: <said>Da molti è tenuto buon cattolico, da altri
+                                è tenuto per sospetto nelle cose della fede perché dicono sii molto
+                                intimo di quel <rs type="acteur" ref="Actr330">fra Paolo
+                                    servita</rs>, tanto famoso in Venetia per le sue impietà. Et
+                                dicono che anco di presente passino lettere tra di loro</said>
+                            <note type="apparatus">
+                                <seg xml:lang="it">Un tratto nel margine sottolinea la
+                                    risposta</seg>
+                                <seg xml:lang="fr">Un trait dans la marge souligne l’ensemble de
+                                    cette réponse</seg>
+                            </note>.</p>
+                        <p>Interrogatus an recordetur a quo vel quibus in specie praedicta
+                            intellexerit, respondit: <seg>Io ho inteso le sopradette cose dal padre
+                                maestro fra <name ref="Actr207">Nicolò Lorini</name>, dal signor
+                                priore Cimenes, priore de’ Cavalieri<fw type="catch">di</fw>
+                                <pb xml:id="MaOb5136_22r"/>
+                                <fw type="pageNum">
+                                    <subst>
+                                        <del>966</del>
+                                        <add>347</add>
+                                    </subst>
+                                </fw>
+                                <fw type="pageNum" rendition="#po_bo #ta_rig">
+                                    <choice>
+                                        <orig>i5</orig>
+                                        <reg>15</reg>
+                                    </choice>
+                                </fw>di Santo Stefano, et questi m’hanno detto le sopradette cose,
+                                cioè <hi rendition="#td_ul">il padre <name ref="Actr207">Nicolò
+                                        Lorini</name>
+                                    <add type="note_marginale">
+                                        <choice>
+                                            <abbr>de aud. al.</abbr>
+                                            <expan>de audito alieno</expan>
+                                        </choice>
+                                    </add> che fra il <name ref="Actr161">Galileo</name> et maestro
+                                        <name ref="Actr330">Paolo</name> passano lettere et gran
+                                        familiarità<add type="note_marginale">quoad familiaritatem
+                                        cum fratre Paolo</add>, con occasione di dire</hi> che
+                                costui era sospetto <app>
+                                    <lem/>
+                                    <rdg wit="#d44_B" type="structure">
+                                        <pb xml:id="MaOb7346_12v"/>
+                                    </rdg>
+                                </app>
+                                <foreign xml:lang="la">in fide</foreign>, havendomi replicato
+                                l’istesso più volte, anzi scrittomi qua a Roma. Il <hi rendition="#td_ul">priore poi Cimenes</hi> non mi ha detto
+                                altramente della familiarità che passa fra maestro <name ref="Actr330">Paolo</name> et il <name ref="Actr161">Galileo</name> ma solo <hi rendition="#td_ul">
+                                    <app>
+                                        <lem>ch’il</lem>
+                                        <rdg type="orthographic" wit="#d44_B">che il</rdg>
+                                    </app> Galilei è sospetto</hi> et <app>
+                                    <lem>ch’essendo</lem>
+                                    <rdg type="orthographic" wit="#d44_B">che sendo</rdg>
+                                </app> una volta venuto a Roma, le fu significato come il Santo
+                                Offitio cercava di porvi le <app>
+                                    <lem>mano</lem>
+                                    <rdg type="orthographic" wit="#d44_B">mani</rdg>
+                                </app> adosso, per il che lui se la colse. Et questo me lo disse in
+                                camera del padre <name ref="Actr384">Ferdinando</name> sudetto, suo
+                                cugino, che non mi <app>
+                                    <lem>raccordo</lem>
+                                    <rdg type="orthographic" wit="#d44_B">ricordo</rdg>
+                                </app> bene se detto padre ci fusse presente</seg>.</p>
+                        <p>Interrogatus an in specie intellexerit a praedictis patre <name ref="Actr207">Lorino</name> et domino equite Cimenes, in quo
+                            habebant dictum Galileum suspectum in fide, respondit: <said>
+                                <hi rendition="#td_ul">Non mi dissero altro, eccetto che l’havevano
+                                    per <app>
+                                        <lem>suspetto</lem>
+                                        <rdg type="orthographic" wit="#d44_B">sospetto</rdg>
+                                    </app> per le propositioni che lui teneva<pb xml:id="MaOb5136_22v"/> della stabilità del sole et del moto
+                                    della terra, et per che costui vole interpetrare la Scrittura
+                                    Sacra contro il senso commune de’ santi Padri</hi>
+                            </said>.</p>
+                        <p>Subdens ex se:&#160;<said>Costui con altri sono in un’accademia, non so
+                                se eretta da loro, <app>
+                                    <lem>che ha</lem>
+                                    <rdg type="orthographic" wit="#d44_B">c'ha</rdg>
+                                </app> per titolo i Lincei. Et hanno corrispondenza, cioè il detto
+                                Galileo, per quanto si vede da quel suo <rs type="imprime" ref="Bibl6082">libro delle macchie solari</rs>, con altri di
+                                Germania</said>
+                            <note type="apparatus">
+                                <seg xml:lang="it">Un tratto nel margine evidenzia questa
+                                    risposta</seg>
+                            </note>.</p>
+                        <p>Interrogatus an a patre <name ref="Actr384">Ferdinando Cimenes</name>
+                            fuerit sibi narratum in specie, a quibus intellexisse propositiones
+                            illas: Deum non esse substantiam sed accidens; Deum esse sensitivum; et
+                            miracula Sanctis <choice>
+                                <corr>impleta</corr>
+                                <sic>impicta</sic>
+                            </choice> non esse vera miracula, respondit: <said>Mi par di <app>
+                                    <lem>raccordarmi che mi nominasse</lem>
+                                    <rdg type="orthographic" wit="#d44_B">racordarmi che mi
+                                        nomasse</rdg>
+                                </app> quello <rs type="acteur" ref="Actr42019" rend="omit">degl’Attavanti</rs>, da me descritto per uno di quelli che <app>
+                                    <lem>dicevano</lem>
+                                    <rdg type="orthographic" wit="#d44_B">dicevono</rdg>
+                                </app>
+                                <app>
+                                    <lem/>
+                                    <rdg wit="#d44_B" type="structure">
+                                        <fw type="catch">le dette</fw>
+                                        <pb xml:id="MaOb7346_13r"/>
+                                    </rdg>
+                                </app>le dette propositioni. D’altri non mi <app>
+                                    <lem>raccordo</lem>
+                                    <rdg type="orthographic" wit="#d44_B">racordo</rdg>
+                                </app>
+                            </said>.</p>
+                        <p>Interrogatus ubi, quando, quibus praesentibus et qua occasione pater
+                            Ferdinandus narravit sibi discipulos Galilei proferre dictas
+                                propositiones,<fw type="catch">Respondit</fw>
+                            <pb xml:id="MaOb5136_23r"/>
+                            <fw type="pageNum">
+                                <subst>
+                                    <del>967</del>
+                                    <add>348</add>
+                                </subst>
+                            </fw>
+                            <fw type="pageNum" rendition="#po_bo #ta_rig">
+                                <choice>
+                                    <orig>i6</orig>
+                                    <reg>16</reg>
+                                </choice>
+                            </fw>respondit: <said>Il padre <name ref="Actr384">Ferdinando</name> mi
+                                ha detto <app>
+                                    <lem>di haver sentito</lem>
+                                    <rdg type="orthographic" wit="#d44_B">d'haver sentite</rdg>
+                                </app> le dette propositioni dalli scolari del <name ref="Actr161">Galileo</name> più volte, e in chiostro da basso, et in
+                                dormitorio da basso, et in cella sua, et questo dopo ch’io feci
+                                quella lettione, con occasione di dirmi che mi haveva difeso con
+                                costoro. Né mi <app>
+                                    <lem>raccordo</lem>
+                                    <rdg type="orthographic" wit="#d44_B">ricordo</rdg>
+                                </app> che mai ci sia stato <app>
+                                    <lem/>
+                                    <rdg type="copy_error_corrected">
+                                        <del>pnt</del>
+                                    </rdg>
+                                </app> altri presente</said>.</p>
+                        <p>Interrogatus de inimicitia cum dicto Galileo et illo de Attavantis, ac
+                            aliis discipulis dicti Galilei, respondit: <said>Io non solo non ho
+                                inimicitia col detto Galileo, ma né anco lo conosco. <app>
+                                    <lem>Così</lem>
+                                    <rdg type="substantive" wit="#d44_B">Et così</rdg>
+                                </app> con <name ref="Actr42019">l’Attavante</name> non vi ho
+                                inimicitia, né odio alcuno, né con altri discepoli del <app>
+                                    <lem>Galileo</lem>
+                                    <rdg type="orthographic" wit="#d44_B">Galilei</rdg>
+                                </app>, anzi che prego Dio per loro</said>.</p>
+                        <p>Interrogatus an dictus Galileus publice doceat Florentiae, et quam artem,
+                            et an discipuli eius sint numerosi, respondit: <said>Io non so se il
+                                    <name ref="Actr161">Galileo</name> legga publicamente né se
+                                habbi molti discepoli. So bene che in Firenze ha molti seguaci, che
+                                si chiamano <hi rendition="#td_ul">Galileisti</hi> et questi sono
+                                quelli che vanno <pb xml:id="MaOb5136_23v"/> magnificando et lodando
+                                la sua dottrina et <app>
+                                    <lem>opinioni</lem>
+                                    <rdg type="orthographic" wit="#d44_B">opinione</rdg>
+                                </app>
+                            </said>.</p>
+                        <p>Interrogatus cuius patriae sit dictus Galileus, cuiusne professionis, et
+                            ubi studuerit, respondit: <said>Lui si fa fiorentino ma ho inteso <app>
+                                    <lem>ch’è</lem>
+                                    <rdg type="orthographic" wit="#d44_B">che è</rdg>
+                                </app> Pisano, et la <app>
+                                    <lem/>
+                                    <rdg wit="#d44_B" type="structure">
+                                        <pb xml:id="MaOb7346_13v"/>
+                                    </rdg>
+                                </app>professione è di <app>
+                                    <lem>mattematico</lem>
+                                    <rdg type="orthographic" wit="#d44_B">mathematico</rdg>
+                                </app>. Per quanto ho inteso ha studiato in Pisa et letto in Padova.
+                                Et è <app>
+                                    <lem>di età</lem>
+                                    <rdg type="substantive" wit="#d44_B"/>
+                                </app> di 60 anni passati</said>.</p>
+                    </div>
+                    <div type="eschatocol">
+                        <p>Quibus habitis etc. fuit dimissus, imposito sibi silentio cum iuramento
+                            de praedictis et obtenta eius subscriptione.</p>
+                        <ab type="signed">
+                            <handShift corresp="#MaOb5136_h18"/>Io fra <name ref="Actr78">Tommaso
+                                Caccini</name> ho <app>
+                                <lem>deposto</lem>
+                                <rdg type="orthographic" wit="#d44_B">deposte</rdg>
+                            </app> le predette cose.</ab>
+                    </div>
+                </div>
+            </div>
+        </body>
+        <back>
+            <div xml:id="d44_div2" rendition="#po_mgl #po_fq">
+                <ab>
+                    <pb n="MaOb5136_18r"/>
+                    <handShift corresp="#MaOb5136_h15"/>Die 3 mensis aprilis<lb/>1615 fuit
+                    transmissa<lb/>copia inquisitori Florentiae <note type="apparatus">
+                        <choice>
+                            <seg xml:lang="it">Aggiunto nel margine sinistro, all'inizio del
+                                testo</seg>
+                            <seg xml:lang="fr">Ajouté dans la marge gauche au début du texte</seg>
+                        </choice>
+                    </note>
+                    <note type="semantic">
+                        <seg xml:lang="it">Cf. doc. <ptr type="document_EPG" target="d48"/>
+                        </seg>
+                    </note>
+                </ab>
+            </div>
+            <div xml:id="d44_div3">
+                <ab>
+                    <pb n="MaOb5136_23v"/>
+                    <handShift corresp="#MaOb5136_h19"/>Die 28 maii 1615 fuit missa copia<del>d.nis
+                        T.</del> depositionis dicti Thomae <rs type="acteur" ref="Actr332">Inquisitori Mediolani</rs> etc. <note type="semantic">
+                        <seg xml:lang="it">Cf. doc. <ptr type="document_EPG" target="d57"/>
+                        </seg>
+                    </note>
+                </ab>
+            </div>
+            <div type="wit_back" corresp="#d44_B">
+                <div xml:id="d44_B_div2" type="annotation">
+                    <pb n="MaOb7346_10r"/>
+                    <ab rendition="#ta_rig #po_to">
+                        <handShift/>Copia</ab>
+                </div>
+            </div>
+        </back>
+    </text>
+</TEI>

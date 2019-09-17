@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="d45" xml:base="http://symogih.org/resource">
+    <teiHeader>          <fileDesc>             <titleStmt>                <title>
+                    <persName key="Actr52">Bonciani Francesco</persName> a <persName key="Actr255">Gian Garsia Mellini</persName> in <placeName key="NaPl3697">Roma</placeName>
+                </title>             </titleStmt>             <editionStmt>                 <edition>                     <idno type="chapitre">A</idno>                     <date type="date_ordre_tri">1615-04-08</date>                 </edition>             </editionStmt>             <publicationStmt>                <idno type="BHP"/>                <date type="exportation">19/04/2011 09:46:56</date>        </publicationStmt>             <sourceDesc>
+                <msDesc>
+                    <msIdentifier corresp="#MaOb5136">
+                        <msName/>
+                    </msIdentifier>                      <msContents>                           <summary/>                             <msItem>
+                            <locusGrp rendition="#pg_f">
+                                <locus from="24r"/>
+<locus from="25v"/>
+                            </locusGrp>
+                            <author/>
+                            <incipit/>
+                            <explicit/>
+                        </msItem>                       </msContents>                        <physDesc>                             <handDesc>
+                            <p>Firma autografa</p>
+                        </handDesc>                        </physDesc> <additional>
+                        <adminInfo/>
+                        <listBibl>
+                            <bibl corresp="#Bibl786">
+                                <biblScope type="vol">XIX</biblScope>
+                                <biblScope type="pp">pp. 311-312</biblScope>
+                            </bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>          </fileDesc>          <profileDesc>             <creation>       <placeName key="NaPl3652"/>       <date when="1615-03-28">28 marzo 1615</date>             </creation>          </profileDesc>
+    </teiHeader>
+    <text xml:id="d45" type="TyDoc_1" xml:lang="it">
+        <body>
+            <div xml:id="d45_div1" type="core">
+                <ab>
+                    <handShift corresp="#MaOb5136_h14"/>Illustrissimo et reverendissimo signore et
+                    padron mio colendissimo.</ab>
+                <p xml:space="preserve">Ho già dato conto a Vostra Signoria illustrissima a’ <choice>
+                        <orig>vii</orig>
+                        <reg>7</reg>
+                    </choice> del presente come il padre don <name key="Actr97">Benedetto
+                        Castello</name>
+                    <choice>
+                        <sic>m'haveva</sic>
+                        <corr>mi haveva</corr>
+                    </choice> promesso scrivere al <name key="Actr161">Galileo</name> perché
+                    li mandasse la sua lettera de’ <choice>
+                        <orig>xxi</orig>
+                        <reg>21</reg>
+                    </choice> di dicembre 1613, che era ritornata nelle sue mani. Ora, non essendo
+                    ciò seguito, l’ho voluto di nuovo rappresentare a Vostra Signoria illustrissima
+                    perché mi favorisca di comandarmi quel che io debba fare. Io non dubito punto
+                    che la lettera sia appresso al <name key="Actr161">Galileo</name>,
+                    havendo io trattato in modo col <rs type="acteur" key="Actr97">Padre</rs> che
+                    non ha potuto penetrare per che conto io gnene abbia chiesta. Anzi tien per
+                    fermo che io la voglia vedere per curiosità e come loro amico. Né ho giudicato
+                    bene scoprirmi seco da vantaggio senza nuovo ordine di Vostra Signoria
+                    illustrissima, massimamente havendo Ella scritto al <rs type="acteur" key="Actr240">padre inquisitore</rs> che si procedesse con destrezza. Non
+                    debbo già lasciare di mettere in considerazione a Vostra Signoria illustrissima
+                    che forse sarà più agevole e spedita via il farsela dare dallo stesso <name key="Actr161">Galileo</name>. E faccendo a Vostra Signoria illustrissima
+                    umilissima riverenza, le prego da Dio ogni felicità.</p>
+                <closer>
+                    <dateline> Di Pisa, li <choice>
+                            <orig>xxviii</orig>
+                            <reg>28</reg>
+                        </choice> di marzo 1615.</dateline>
+                    <salute>Di Vostra Signoria illustrissima et reverendissima</salute>
+                    <salute>umilissimo e obbligatissimo servitore</salute>
+                    <salute>
+                        <name key="Actr52">Francesco, arcivescovo di
+                        Pisa</name>.</salute>
+                </closer>
+            </div>
+            <pb n="MaOb5136_25v"/>
+            <div xml:id="d45_div2" type="address">
+                <!-- ??? come trattare il sigillo ??? -->
+                <note type="apparatus" rend="omit">Il y a ici un sceau, comment le traiter? Pagano
+                    2009, p. 20 : sigillo, cera sotto carta</note>
+                <p>All’illustrissimo et reverendissimo signore et padron mio colendissimo</p>
+                <p>il signor cardinal <name key="Actr255">Mellino</name>
+                </p>
+            </div>
+        </body>
+        <back>
+            <div xml:id="d45_div3" type="summary">
+                <ab rendition="#po_fq">
+                    <handShift corresp="#MaOb5136_h4"/>Pisa</ab>
+                <ab>Di monsignore arcivescovo</ab>
+                <ab>
+                    <choice>
+                        <abbr>De.</abbr>
+                        <expan>Dei</expan>
+                    </choice> 28 di marzo <choice>
+                        <abbr>a.</abbr>
+                        <expan>ai</expan>
+                    </choice> 3 d’aprile 1615</ab>
+                <ab>Dice che, non havendo il padre don <name key="Actr97">Benedetto
+                        Castello</name> potuto sin hora rihaver la lettera del <name key="Actr161">Galileo</name> come sperava, saria forsi expediente di
+                    procurarla dal medesimo <name key="Actr161">Galileo</name>, se però
+                    altrimenti non li si comanda etc., onde etc.</ab>
+            </div>
+            <div xml:id="d45_div4" type="annotation">
+                <ab rendition="#ta_rig #po_bo">
+                    <handShift/>in processu <name key="Actr161">Galilei</name>
+                </ab>
+            </div>
+        </back>
+    </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="d51" xml:base="http://symogih.org/resource">
+    <teiHeader>          <fileDesc>             <titleStmt>                <title>L’inquisitore <persName key="Actr307">Cornelio Priatoni</persName> al cardinale <persName key="Actr255">Gian Garsia Mellini</persName> in <placeName key="NaPl3697">Roma</placeName>
+                </title>             </titleStmt>             <editionStmt>                 <edition>                     <idno type="chapitre">B</idno>                     <date type="date_ordre_tri">1615-04-13</date>                 </edition>             </editionStmt>             <publicationStmt>                <idno type="BHP">AE2789</idno>                <date type="exportation">16/09/2011 18:40:05</date>        </publicationStmt>             <sourceDesc>
+                <msDesc>
+                    <msIdentifier corresp="#MaOb5136">
+                        <msName/>
+                    </msIdentifier>                      <msContents>                           <summary/>                             <msItem>
+                            <locusGrp rendition="#pg_f">
+                                <locus from="26r"/>
+<locus from="27v"/>
+                            </locusGrp>
+                            <author/>
+                            <incipit/>
+                            <explicit/>
+                        </msItem>                       </msContents>                        <physDesc>                             <handDesc>
+                            <p>Autografa</p>
+                        </handDesc>                        </physDesc> <additional>
+                        <adminInfo/>
+                        <listBibl>
+                            <bibl corresp="#Bibl786">
+                                <biblScope type="vol">XIX</biblScope>
+                                <biblScope type="pp">p. 312</biblScope>
+                            </bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>          </fileDesc>          <profileDesc>             <creation>       <placeName key="NaPl3465"/>       <date when="1615-04-13">13 aprile 1615</date>             </creation>          </profileDesc>
+    </teiHeader>
+    <text xml:id="d51" type="not_defined" xml:lang="it">
+        <body>
+            <div type="core" xml:id="d51_div1">
+                <salute>
+                    <handShift corresp="#MaOb5136_h20"/>Illustrissimo et reverendissimo
+					signore.</salute>
+                <p>Ho riceuto la lettera di Vostra Signoria illustrissima et reverendissima delli 4
+					del corrente, insieme con la copia della deposizione del padre fra <name key="Ac78">Thomaso Caccini</name>, dell’Ordine de' Predicatori, contro
+						<name key="Ac161">Galileo Galilei</name>
+                    <note type="generic">Cfr.
+							<ptr type="document_EPG" target="#d44_B"/>
+                    </note>. Et quanto prima potrò
+					havere li testimonii prodotti, de’ quali alcuni sono hora occupati nelle
+					predicationi quadragesimali, eseguirò subito il contenuto della detta lettera,
+					soggiongendo apresso quanto sin hora m’occorre a proposito. Et a Vostra Signoria
+					illustrissima et reverendissima facio proffondissima riverenza.</p>
+                <ab type="dateline">Da Firenze, 13 aprile 1615</ab>
+                <ab type="signed">Di Vostra Signoria illustrissima et reverendissima<lb/>humilissimo servo<lb/>
+                    <name key="Ac307">
+                        <choice>
+                            <abbr>F.</abbr>
+                            <expan>Fra</expan>
+                        </choice> Cornelio</name>, inquisitore di Firenze.</ab>
+            </div>
+            <pb n="MaOb5136_27v"/>
+            <div xml:id="d51_div2">
+                <p>All’illustrissimo et reverendissimo signore mio <supplied reason="damage">padrone</supplied> colendissimo il signor cardinale <name key="Ac255">Millino</name>.</p>
+                <p>Roma.</p>
+            </div>
+        </body>
+        <back>
+            <div xml:id="d51_div3">
+                <ab>
+                    <handShift corresp="#MaOb5136_h16"/>Fiorenza</ab>
+                <ab>Del padre inquisitore</ab>
+                <ab>Delli 13 a 18 aprile 1615</ab>
+                <ab>Responde che essaminarà quanto più presto potrà havere li testimonii nominati da
+					fra <name key="Ac78">Thomasso Caccini</name> de’ Predicatori contro il
+						<name key="Actr161">Galilei</name> etc. <gap reason="illegible"/>
+                </ab>
+            </div>
+            <div xml:id="d51_div4">
+                <ab>
+                    <handShift/>in processu <name key="Actr161">Galilei</name>
+                </ab>
+            </div>
+        </back>
+    </text>
+</TEI>
