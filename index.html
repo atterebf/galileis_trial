@@ -8,17 +8,10 @@
 
 <script src="js/CETEI.js"></script>
 </head> <body>
-<div id="TEI"></div>
-<script>
-var CETEIcean = new CETEI();
-
-CETEIcean.addBehaviors({
-"tei": {
-"teiHeader" : null,
-"head": [ "<a href=\"http://symogih.org\">" , "</a>" ]
-} });
-
-CETEIcean.getHTML5("data/d43.xml", function(data) {
-document.getElementById("TEI").appendChild(data) })
-</script> </body>
+<div id="TEI">
+  <ul>
+    <li><a href="documents/d43.html"></a></li>
+  </ul>
+</div>
+</body>
 </html>
